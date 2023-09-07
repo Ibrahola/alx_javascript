@@ -1,1 +1,1 @@
-<!-- JavaScript -->
+This is not empty
